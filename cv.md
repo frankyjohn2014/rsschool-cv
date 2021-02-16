@@ -33,7 +33,7 @@ export const loginReducer = (email:string, password:string,rememberMe:boolean,ca
 ## Education
 * **Aviation Equipment** - Belarussian State Academy of Aviation
 September 2011 - July 2017
-
+* **Course:** Udemy Uriy Bura React, Udemy ReactJs Vladilen Minin, Coursera Python, Python WebFromMySelf, Udemy React Hooks, Udemy Docker and Docker Compose.
 
 ## Language competencies
 English: Elementary (A2)
